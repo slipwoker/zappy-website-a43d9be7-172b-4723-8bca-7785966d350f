@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה מקלדות גיימינג מכניות, עכברים מקצועיים, פדים גיימינג ואוזניות עם מיקרופון במחירים שלא תמצא בשום מקום אחר. הצטרף לאלפי גיימרים מרוצים וקנה עכשיו!
+
+### מדריך ציוד
+https://example.com/gear-guide
+המדריך המקיף ביותר לגיימרים בישראל: כיצד לבחור מקלדת גיימינג מכנית, עכבר גיימינג למחשב ואוזניות עם מיקרופון שיעניקו לך יתרון אמיתי בכל משחק. קרא עכשיו!
+
+### אודות
+https://example.com/about
+ציוד גיימינג נוסדה מתוך תשוקה אמיתית לעולם המשחקים. אנו מביאים לגיימרים הישראלים את הפריפריאלס המקצועיים ביותר — ממקלדות מכניות ועד פדים גיימינג — עם שירות אישי ומסירות מלאה.
+
+### צור קשר
+https://example.com/contact
+צריך עזרה בבחירת עכבר גיימינג למחשב, אוזניות עם מיקרופון או פדים גיימינג? צוות המומחים שלנו זמין לענות על כל שאלה ולעזור לך לבנות את הסטאפ המושלם. צור קשר עכשיו!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ציוד גיימינג
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ציוד גיימינג
+
+### Category
+https://example.com/category/:slug
+מוצרים - ציוד גיימינג
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
